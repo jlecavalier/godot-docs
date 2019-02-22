@@ -22,7 +22,7 @@ Organization
 Godot is scene based in nature, and uses the filesystem as-is,
 without metadata or an asset database. 
 
-Unlike other engines, a lot of resource are contained within the scene
+Unlike other engines, a lot of resources are contained within the scene
 itself, so the amount of files in the filesystem is considerably lower.
 
 Considering that, the most common approach is to group assets close to scenes as,
